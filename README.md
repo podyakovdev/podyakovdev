@@ -9,7 +9,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Markdown](https://img.shields.io/badge/FastApi-%CCE5FF.svg?style=for-the-badge&logo=fastapi&logoColor=blue)
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 
@@ -18,6 +17,7 @@
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Scrapy](https://img.shields.io/badge/Scrapy-red?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-blue?style=for-the-badge)
+![Markdown](https://img.shields.io/badge/FastApi-%CCE5FF.svg?style=for-the-badge&logo=fastapi&logoColor=blue)
 <!--[comment]: ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)-->
 
 ### Technologies:
